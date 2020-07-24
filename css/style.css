@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
 #home {
     background-image: url("/assets/backgrounds/h_img.jpg");
     background-size: cover;
@@ -17,9 +21,9 @@ body{
     height: 500px;
     padding-top: 50px;
 }
-.what-to-do{
+ .what-to-do{
     font-family: 'Merriweather', serif;
-    font-size: 15px;
+    font-size: 13px;
 }
 .contact{
     background-image: url("/assets/backgrounds/c_image.jpg");

@@ -90,7 +90,7 @@ $(document).ready(function(){
       var email = $("input#MERGE0").val();
       var message = $("textarea#comment").val();
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
-        alert (name + ", your messeges has been received successfull. Thank you for reaching out to us out.");
+        alert (name + ", your messeges has been received successfully. Thank you for reaching out to us.");
       }
       else {
         alert("Please input your name email address and message!");

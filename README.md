@@ -2,8 +2,9 @@
 
 ## Author
 Irene Kasiva
-## Licence
-MIT
+
+## Description
+This website advertises the work done by the team in this sector.The team designs, develops and manages the product of the website according to the clients choice during coding and programming the application.
 
 ## Installation
 Clone and download to install the website.

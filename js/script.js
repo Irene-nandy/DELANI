@@ -93,7 +93,7 @@ $(document).ready(function(){
         alert (name + ", your messeges has been received successfull. Thank you for reaching out to us out.");
       }
       else {
-        alert("Please enter your name and email!");
+        alert("Please input your name email address and message!");
       }
       
     });

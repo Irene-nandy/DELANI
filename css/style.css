@@ -3,7 +3,7 @@
   overflow-x: hidden;
 }
 #Home {
-    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-image: url("//assets/backgrounds/h_img.jpg");
     background-size: cover;
     height: 700px;
     width: 100%;
@@ -15,7 +15,7 @@ body{
     text-align: center;
 }
 .Services {
-    background-image: url("/assets/backgrounds/s_image.jpg");
+    background-image: url("//assets/backgrounds/s_image.jpg");
     background-size: cover;
     color: aliceblue;
     height: 500px;
@@ -25,7 +25,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
  }
 .Contact{
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("//assets/backgrounds/c_image.jpg");
     background-size: cover;
     color: aliceblue;
 }
